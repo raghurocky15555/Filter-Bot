@@ -42,7 +42,7 @@
       },
        "START_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/fc734b227985a1524e715.jpg"    
+         "value": "https://telegra.ph/file/b504338b94de52982a5b4.jpg"    
       },
       "PORT": {
          "description": "Port to use for your webhooks.",
@@ -92,5 +92,5 @@
    "name": "Filter Bot",
    "repository": "https://github.com/Jijinr/Filter-Bot",
    "success_url": "https://telegram.dog/Filters_Robot",
-   "logo": "https://telegra.ph/file/32818d7b01045798980e8.jpg"
+   "logo": "https://telegra.ph/file/b504338b94de52982a5b4.jpg"
 }
